@@ -2,13 +2,11 @@
 这是一个关于蔡徐坤的网站
 ![蔡徐坤](https://c-ssl.duitang.com/uploads/item/201804/07/20180407184117_iemQv.jpeg)
 
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 我们的坤坤
+ 蔡徐坤先生一直专注于音乐创作，一年多的时间里发行了10首个人单曲，完成多个表演舞台并收获多项荣誉，同时积极的参与各种公益活动，用爱发光。 “花花世界，静守己心”是初心也是承诺，我们将跟随正能量偶像蔡徐坤一起，以更加积极阳光的心态一起迎接更多的机遇与挑战! 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
+# 
 ## Header 2
 ### Header 3
 
