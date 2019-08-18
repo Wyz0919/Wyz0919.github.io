@@ -6,20 +6,18 @@
  蔡徐坤先生一直专注于音乐创作，一年多的时间里发行了10首个人单曲，完成多个表演舞台并收获多项荣誉，同时积极的参与各种公益活动，用爱发光。 “花花世界，静守己心”是初心也是承诺，我们将跟随正能量偶像蔡徐坤一起，以更加积极阳光的心态一起迎接更多的机遇与挑战! 
 
 
-# 
-## Header 2
-### Header 3
+##1.关于坤坤的新歌
+##2.我们坤坤被恶搞
+##3.破站人员的所作所为
 
-- Bulleted
-- List
+1，坚守音乐梦想  彰显真我态度
+冲破流言桎梏  解读热血青春
+年轻敢于表达  不燃怎YOUNG
+走进蔡徐坤  发现他理解的热爱和燃
+《VogueMe》杂志 | 2019年八月刊文字摘录
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+2.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
