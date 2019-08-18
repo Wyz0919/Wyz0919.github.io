@@ -1,6 +1,6 @@
 ## 鸡你太美
 这是一个关于蔡徐坤的网站
-![蔡徐坤](https://www.duitang.com/blog/?id=910164931)
+![蔡徐坤](https://c-ssl.duitang.com/uploads/item/201804/07/20180407184117_iemQv.jpeg)
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
