@@ -16,7 +16,7 @@
 走进蔡徐坤  发现他理解的热爱和燃
 《VogueMe》杂志 | 2019年八月刊文字摘录
 
-
+[看看坤坤](坤坤的奇妙旅程.html).
 2.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
