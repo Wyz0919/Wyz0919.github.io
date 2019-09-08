@@ -6,12 +6,14 @@
 </head>
 <body>
  <audio controls>
-  <source src="鸡你太美.mp3" type="audio/mpeg">
+ 
  </audio>
   <iframe width="700" height="450" src="//player.bilibili.com/player.html?aid=52081197&cid=91171487&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
   <iframe width="700" height="450" src="//player.bilibili.com/player.html?aid=53567591&cid=93709753&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>"
 </body>
 </html>
+<audio id="voice" src="鸡你太美.mp3"></audio>
+<p class="but">点击坤坤</p>
 
 <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
 <script>
@@ -24,7 +26,7 @@
                  
             } else { //播放状态
                 voice.pause(); //音乐停止
-                $('.but').text('鸡你太美'); //切换文字
+                $('.but').text('点击坤坤'); //切换文字
             }
         });
      });
